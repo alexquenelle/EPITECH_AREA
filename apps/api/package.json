@@ -58,7 +58,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "express-jsdoc-swagger": "^1.6.7",
-    "openapi-typescript": "^5.1.1",
+    "openapi-typescript": "^5.4.0",
     "openapi-typescript-codegen": "^0.18.1",
     "prettier": "^2.5.1",
     "rimraf": "^3.0.2",
