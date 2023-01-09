@@ -60,7 +60,7 @@
     "express-jsdoc-swagger": "^1.6.7",
     "openapi-typescript": "^5.1.1",
     "openapi-typescript-codegen": "^0.18.1",
-    "prettier": "^2.5.1",
+    "prettier": "^2.8.2",
     "rimraf": "^3.0.2",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.4"
