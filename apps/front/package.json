@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/node": "17.0.8",
     "@types/react": "17.0.38",
-    "babel-plugin-react-native-web": "^0.17.7",
+    "babel-plugin-react-native-web": "^0.19.4",
     "eslint": "^8.6.0",
     "eslint-config-next": "12.0.8",
     "eslint-config-react-app": "^7.0.0",
