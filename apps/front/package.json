@@ -19,7 +19,7 @@
     "react-native-web": "^0.17.5"
   },
   "devDependencies": {
-    "@types/node": "17.0.8",
+    "@types/node": "20.4.1",
     "@types/react": "17.0.38",
     "babel-plugin-react-native-web": "^0.17.7",
     "eslint": "^8.6.0",
